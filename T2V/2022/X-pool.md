@@ -4,4 +4,4 @@
 期刊:CVPR2022
 
 
-![项目截图](./images/X-pool.png)
+![model picture](./images/X-pool.png)
