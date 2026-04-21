@@ -12,16 +12,14 @@
 项目代码开源：https://github.com/layer6ai-labs/xpool
 
 
+模型图:
 ![model picture](./images/X-pool.png)
 
 
 
 
-项目代码开源：https://github.com/layer6ai-labs/xpool
-
-
-
-实验结果:![alt text](./images/X-pool_exper.png)
+实验结果:
+![alt text](./images/X-pool_exper.png)
 
 
 
